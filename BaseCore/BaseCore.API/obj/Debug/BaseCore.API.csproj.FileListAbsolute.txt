@@ -1,0 +1,15 @@
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\bin\Debug\BaseCore.API.dll
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\bin\Debug\BaseCore.API.pdb
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\bin\Debug\BaseCore.Business.dll
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\bin\Debug\BaseCore.Business.pdb
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\obj\Debug\BaseCore.API.csprojResolveAssemblyReference.cache
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\obj\Debug\BaseCore.API.dll
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\obj\Debug\BaseCore.API.pdb
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\bin\Debug\Newtonsoft.Json.dll
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\bin\Debug\System.Net.Http.Formatting.dll
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\bin\Debug\System.Web.Http.dll
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\bin\Debug\System.Web.Http.WebHost.dll
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\bin\Debug\Newtonsoft.Json.xml
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\bin\Debug\System.Net.Http.Formatting.xml
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\bin\Debug\System.Web.Http.xml
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.API\bin\Debug\System.Web.Http.WebHost.xml

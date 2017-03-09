@@ -1,0 +1,9 @@
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.Common\bin\Debug\BaseCore.Common.dll
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.Common\bin\Debug\BaseCore.Common.pdb
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.Common\obj\Debug\BaseCore.Common.csprojResolveAssemblyReference.cache
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.Common\obj\Debug\BaseCore.Common.dll
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.Common\obj\Debug\BaseCore.Common.pdb
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.Common\bin\Debug\Common.Log.dll
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.Common\bin\Debug\Common.Log.log4net.dll
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.Common\bin\Debug\log4net.dll
+E:\data\MyProject\BaseCore\BaseCore\BaseCore.Common\bin\Debug\log4net.xml
